@@ -11,6 +11,3 @@ Before Carnegie Mellon, I taught as an Assistant Professor & Faculty Fellow at [
 I am currently the General Editor of the [Encyclopedia of the History of Science](https://lps.library.cmu.edu/ETHOS/) and an Associate Editor for the [Harvard Data Science Review](http://hdsr.mitpress.mit.edu/).
 
 I received my Ph.D. in History of Science in 2011 from [Harvard University](http://www.harvard.edu/) in Cambridge, Mass. Previously, I received an MPhil. in History and Philosophy of Science, Technology and Medicine, from the [University of Cambridge (U.K.)](http://www.hps.cam.ac.uk/), and an A.B. in History and Science from Harvard College.
-
-![Headshot of Christopher J. Phillips](/_site/phillips_pic.jpg "Christopher J. Phillips")
-
