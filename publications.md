@@ -4,7 +4,99 @@ title: Publications
 permalink: /publications/
 ---
 
-Publications
+This page lists completed projects: for ongoing research, please see [Ongoing Projects](/cjp/ongoing-projects/)
 
-Coming soon!
+Go to:
 
+[Books](#books)
+
+[Articles](#selected-academic-journal-articles)
+
+[Essays and Reviews](#selected-essays-and-reviews)
+
+***
+
+
+
+### Books
+
+* #### *Scouting and Scoring: How We Know What We Know About Baseball* (Princeton University Press, 2019). 
+	
+	[Buy from Amazon](https://www.amazon.com/Scouting-Scoring-Know-about-Baseball/dp/0691180210/) 
+	
+	[Buy from IndieBound](https://bookshop.org/books/scouting-and-scoring-how-we-know-what-we-know-about-baseball/9780691180212) 
+	
+	[Buy from Princeton](https://press.princeton.edu/books/hardcover/9780691180212/scouting-and-scoring)
+
+	> #### Awards: 
+	> - [Winner of 2020 Baseball Research Award from the Society for American Baseball Research](https://sabr.org/about/sabr-baseball-research-award)
+	> - [Finalist for the CASEY Award for Best Baseball Book of the Year, Spitball Magazine](http://www.spitballmag.com/Casey-Award)
+
+	> #### Selected Reviews: 
+	> - [The New Yorker](https://www.newyorker.com/magazine/2019/04/08/what-baseball-teaches-us-about-measuring-talent)
+	> - [Scientific American: *Observations*](https://blogs.scientificamerican.com/observations/what-market-research-can-learn-from-baseball/)
+	> - [Mathematical Association of America Reviews](https://www.maa.org/press/maa-reviews/scouting-and-scoring-how-we-know-what-we-know-about-baseball)
+
+* #### *The New Math: A Political History* (University of Chicago Press, 2015).
+
+	[Buy from Amazon](https://www.amazon.com/New-Math-Political-History/dp/022618496X)
+
+	[Buy from Chicago](https://www.press.uchicago.edu/ucp/books/book/chicago/N/bo18991075.html)
+
+	>#### Selected Reviews: 
+
+	>*Nature*, *Science*, *Journal of American History*, *American Historical Review*, *Isis, History of Education Quarterly, Perspectives on Politics (American Political Science Association), Pacific Standard*, *Mathematical Intelligencer,* *Mathematics Teacher*, *Mathematical Association of America Reviews, Reviews in American History*
+
+***
+
+### Selected Academic Journal Articles
+
+2020: [“Precision Medicine and its Imprecise History,”](https://doi.org/10.1162/99608f92.3e85b56a) *Harvard Data Science Review* 2(1).
+
+2019: [“The Bases of Data,”](https://doi.org/10.1162/99608f92.5c483119) *Harvard Data Science Review* 1(2).
+
+2019: [“NIH Statisticians and the Transformation of Medical Proof,”](https://publishing.vt.edu/site/books/10.21061/viral-networks/) *Viral Networks: Connecting Digital Humanities and Medical History*, eds E. Thomas Ewing and Katherine Randall (Blacksburg: VT Publishing).
+
+2017: “Knowing By Number: Learning Math for Thinking Well,” Endeavour 41/1 (March 2017): 8-11.
+
+2016: “The Taste Machine: Sense, Subjectivity, and Statistics in the California Wine-World,” Social Studies of Science 46/3 (2016): 461-481.
+
+2016: “Mathematical Superpowers: The Politics of Universality in a Divided World,” Historical Studies in the Natural Sciences 46/5 (2016): 549-555 [with Ksenia Tartarchenko]. Co-editor for this special issue on Cold War mathematics.
+
+2015: “An Officer and a Scholar: West Point and the Invention of the Blackboard,” History of Education Quarterly 55 (Feb. 2015): 82-108.
+
+2014: “The New Math and Midcentury American Politics,” Journal of American History 101 (Sept. 2014): 454-479.
+
+2014: “In Accordance with a ‘More Majestic Order’: The New Math and the Nature of Mathematics at Mid-Century,” Isis 105 (Sept. 2014): 540-563.
+
+2012: “Moneyball and Medicine,” The New England Journal of Medicine 367 (October 25, 2012) [with Jeremy A. Greene and Scott H. Podolsky].
+
+2006.“Robert Woodhouse and the Evolution of Cambridge Mathematics,” History of Science 44 (2006): 1-25.
+
+2005.“Augustus De Morgan and the Propagation of Moral Mathematics,” Studies in History and Philosophy of Science 36 (2005): 105-33.
+
+***
+
+### Selected Essays and Reviews
+
+2020: [“Bradford Hill’s The Environment and Disease: Comment,”](https://obsstudies.org/reprint-of-hills-the-enviroment-and-disease-association-or-causation-and-comments/) *Observational Studies* 6: 24-29 [with Joel Greenhouse].
+
+2019: ["If Baseball is any Indication, the Big Data Revolution is Over,"](https://www.washingtonpost.com/outlook/2019/07/09/if-baseball-is-any-indication-big-data-revolution-is-over/?noredirect=on&utm_term=.d36e26d30880) *Washington Post* Perspectives (July 9, 2019).
+
+2019: "Much Ado About Method," Science 364/6445 (June 14, 2019). [Review of How We Teach Science: What's Changed, and Why it Matters by John L. Rudolph]
+
+2018: “Review of Margot Lee Shetterly, Hidden Figures,” Isis109/2 (June): 435-436.
+
+2017: “Fun and Games,” Science 358/6359 (October 6, 2017). [Review of Game Changers: Stories of the Revolutionary Minds Behind Game Theory by Rudolf Taschner]
+
+2017: “Risky Medicine: How Good Health Became Big Business,” Boston Review (June 5, 2017). [Review of Risky Medicine: Our Quest to Cure Fear and Uncertainty by Robert Aronowitz]
+
+2016: “Quantifying Culture,” Science 354/6308 (October 7, 2016), p. 45. [Review of Living by Numbers: In Defense of Quantity by Steven Connor]
+
+2016: “Facts Versus Fallacy,” Science 353/6299 (August 5, 2016), p. 550. [Review of Truth or Truthiness: Distinguishing Fact from Fiction by Learning to Think Like a Data Scientist by Harold Wainer]
+
+2015: “The Politics of Math Education,” New York Times (December 3, 2015), p. A35.
+
+2015: “Keeping Score: Accounting for America’s Pastime,” Cabinet: A Quarterly of Art and Culture 56 (Winter 2014-2015), 73-79.
+
+2015: “The New Math Strikes Back,” Time.com, February 11, 2015.
