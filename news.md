@@ -4,4 +4,4 @@ title: News
 permalink: /News/
 ---
 
-I put all the news that fits on the [homepage](/cjp/)! 
+I put all the news that fits on the [homepage](/cjp/). 

@@ -4,7 +4,7 @@ title: Ongoing Projects
 permalink: /ongoing-projects/
 ---
 
-I am currently working on a history of statistics in medicine, tentatively titled *Number Doctors: The Emergence of Biostatistics and the Reformation of Modern Medicine*. It centers on a group of biostatisticians at the National Institutes of Health and their efforts to transform measures of causality and proof in medicine through the development of novel statistical measures from the 1930s to the 1970s. It is, in a sense, the prehistory of our current moment of "risky medicine" and "precision medicine," as well as of algorithms and artificial intelligence in medicine. In this project I ask how and why medicine became a science of numbers.
+I am currently working on a history of statistics in medicine, tentatively titled *Number Doctors: The Emergence of Biostatistics and the Reformation of Modern Medicine*. The project centers on a group of biostatisticians at the National Institutes of Health and their efforts to transform measures of causality and proof in medicine through the development of novel statistical measures from the 1930s to the 1970s. It is, in a sense, the prehistory of our current moment of "risky medicine" and "precision medicine," as well as of algorithms and artificial intelligence in medicine. In this project I ask how and why medicine became a science of numbers.
 
 In 2020, I will be conducting research for the project as a National Library of Medicine [Michael E. DeBakey Fellow](https://www.nlm.nih.gov/hmd/get-involved/debakey-fellowship.html) in the History of Medicine.
 
