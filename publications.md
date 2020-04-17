@@ -59,7 +59,7 @@ Go to:
 
 2017: “Knowing By Number: Learning Math for Thinking Well,” Endeavour 41/1 (March 2017): 8-11.
 
-2016: “The Taste Machine: Sense, Subjectivity, and Statistics in the California Wine-World,” Social Studies of Science 46/3 (2016): 461-481.
+2016: [“The Taste Machine: Sense, Subjectivity, and Statistics in the California Wine-World,”](Social Studies of Science-2016-Phillips-461-81.pdf) *Social Studies of Science* 46/3 (2016): 461-481.
 
 2016: “Mathematical Superpowers: The Politics of Universality in a Divided World,” Historical Studies in the Natural Sciences 46/5 (2016): 549-555 [with Ksenia Tartarchenko]. Co-editor for this special issue on Cold War mathematics.
 
@@ -81,22 +81,22 @@ Go to:
 
 2020: [“Bradford Hill’s The Environment and Disease: Comment,”](https://obsstudies.org/reprint-of-hills-the-enviroment-and-disease-association-or-causation-and-comments/) *Observational Studies* 6: 24-29 [with Joel Greenhouse].
 
-2019: ["If Baseball is any Indication, the Big Data Revolution is Over,"](https://www.washingtonpost.com/outlook/2019/07/09/if-baseball-is-any-indication-big-data-revolution-is-over/?noredirect=on&utm_term=.d36e26d30880) *Washington Post* Perspectives (July 9, 2019).
+2019: ["If Baseball is any Indication, the Big Data Revolution is Over,"](https://www.washingtonpost.com/outlook/2019/07/09/if-baseball-is-any-indication-big-data-revolution-is-over/?noredirect=on&utm_term=.d36e26d30880) *The Washington Post* Perspectives (July 9, 2019).
 
-2019: "Much Ado About Method," Science 364/6445 (June 14, 2019). [Review of How We Teach Science: What's Changed, and Why it Matters by John L. Rudolph]
+2019: ["Much Ado About Method,"](https://blogs.sciencemag.org/books/2019/06/11/how-we-teach-science/) *Science* 364/6445 (June 14, 2019). [Review of How We Teach Science: What's Changed, and Why it Matters by John L. Rudolph]
 
-2018: “Review of Margot Lee Shetterly, Hidden Figures,” Isis109/2 (June): 435-436.
+2018: “Review of Margot Lee Shetterly, Hidden Figures,” *Isis* 109/2 (June): 435-436.
 
-2017: “Fun and Games,” Science 358/6359 (October 6, 2017). [Review of Game Changers: Stories of the Revolutionary Minds Behind Game Theory by Rudolf Taschner]
+2017: [“Fun and Games,”](http://blogs.sciencemag.org/books/2017/10/03/game-changers/) *Science* 358/6359 (October 6, 2017). [Review of Game Changers: Stories of the Revolutionary Minds Behind Game Theory by Rudolf Taschner]
 
-2017: “Risky Medicine: How Good Health Became Big Business,” Boston Review (June 5, 2017). [Review of Risky Medicine: Our Quest to Cure Fear and Uncertainty by Robert Aronowitz]
+2017: [“Risky Medicine: How Good Health Became Big Business,”](http://bostonreview.net/science-nature/christopher-j-phillips-risky-medicine-how-good-health-became-big-business) *Boston Review* (June 5, 2017). [Review of Risky Medicine: Our Quest to Cure Fear and Uncertainty by Robert Aronowitz]
 
-2016: “Quantifying Culture,” Science 354/6308 (October 7, 2016), p. 45. [Review of Living by Numbers: In Defense of Quantity by Steven Connor]
+2016: [“Quantifying Culture,”](http://science.sciencemag.org/content/354/6308/45) *Science* 354/6308 (October 7, 2016), p. 45. [Review of Living by Numbers: In Defense of Quantity by Steven Connor]
 
-2016: “Facts Versus Fallacy,” Science 353/6299 (August 5, 2016), p. 550. [Review of Truth or Truthiness: Distinguishing Fact from Fiction by Learning to Think Like a Data Scientist by Harold Wainer]
+2016: [“Facts Versus Fallacy,”](http://science.sciencemag.org/content/353/6299/550) *Science* 353/6299 (August 5, 2016), p. 550. [Review of Truth or Truthiness: Distinguishing Fact from Fiction by Learning to Think Like a Data Scientist by Harold Wainer]
 
-2015: “The Politics of Math Education,” New York Times (December 3, 2015), p. A35.
+2015: [“The Politics of Math Education,”](https://www.nytimes.com/2015/12/03/opinion/the-politics-of-math-education.html) *The New York Times* (December 3, 2015), p. A35.
 
-2015: “Keeping Score: Accounting for America’s Pastime,” Cabinet: A Quarterly of Art and Culture 56 (Winter 2014-2015), 73-79.
+2015: “Keeping Score: Accounting for America’s Pastime,” *Cabinet: A Quarterly of Art and Culture* 56 (Winter 2014-2015), 73-79.
 
-2015: “The New Math Strikes Back,” Time.com, February 11, 2015.
+2015: [“The New Math Strikes Back,”](http://time.com/3694171/the-new-math-strikes-back/) Time.com, February 11, 2015.
