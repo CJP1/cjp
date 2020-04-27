@@ -81,6 +81,8 @@ Go to:
 
 2020: [“Bradford Hill’s The Environment and Disease: Comment,”](https://obsstudies.org/reprint-of-hills-the-enviroment-and-disease-association-or-causation-and-comments/) *Observational Studies* 6: 24-29 [with Joel Greenhouse].
 
+2020: ["Advanced analytics in healthcare: ready for primetime?"](https://blogs.bmj.com/qualitysafety/2020/04/19/advanced-analytics-in-healthcare-ready-for-primetime/) *BMJ Quality and Safety* Blog (April 19).
+
 2019: ["If Baseball is any Indication, the Big Data Revolution is Over,"](https://www.washingtonpost.com/outlook/2019/07/09/if-baseball-is-any-indication-big-data-revolution-is-over/?noredirect=on&utm_term=.d36e26d30880) *The Washington Post* Perspectives (July 9, 2019).
 
 2019: [“Statistician,”](phillips-statistician-day-in-life.pdf) in *A Day in the Life of an American Worker: 200 Trades and Professions Through History*, ed. Nancy Quam-Wickham and Ben Tyler Elliott (ABC-Clio).
