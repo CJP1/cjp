@@ -51,6 +51,8 @@ Go to:
 
 ### Selected Academic Journal Articles
 
+2020: [“Screening for Colorectal Cancer in the Age of Simulation Models: A Historical Lens,”](https://doi.org/10.1053/j.gastro.2020.07.010) *Gastroenterology* 159/4 (October): 1201-1204.  [with Robert E. Schoen]
+
 2020: [“Precision Medicine and its Imprecise History,”](https://doi.org/10.1162/99608f92.3e85b56a) *Harvard Data Science Review* 2(1).
 
 2019: [“The Bases of Data,”](https://doi.org/10.1162/99608f92.5c483119) *Harvard Data Science Review* 1(2).
@@ -78,6 +80,12 @@ Go to:
 ***
 
 ### Selected Essays and Reviews
+
+2021: [“The Curve,”](https://doi.org/10.1525/hsns.2021.51.1.159) *Historical Studies in the Natural Sciences* 51/1 (February): 159-161. 
+ 
+2021:	[“A.B. Hill’s 1962 Watson lecture: The statistical consultant as consensus maker,”](https://doi.org/10.1002/sim.8827) *Statistics in Medicine* 40/1 (January 2021): 49-51. 
+
+2020:	[“Science Detractors and their Discontents,”](https://doi.org/10.1126/science.abf2436) *Science* 370/6523 (December 18, 2020): 1421.  [review of Science Under Fire by Andrew Jewett]
 
 2020: [“Bradford Hill’s The Environment and Disease: Comment,”](https://obsstudies.org/reprint-of-hills-the-enviroment-and-disease-association-or-causation-and-comments/) *Observational Studies* 6: 24-29 [with Joel Greenhouse].
 
