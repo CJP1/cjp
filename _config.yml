@@ -15,7 +15,7 @@
 title: Christopher J. Phillips
 email: cjp1@cmu.edu
 description: > 
-  A gallery of the professional work of Christopher J. Phillips, associate professor of history at Carnegie Mellon University.
+  A site featuring the work of Christopher J. Phillips, professor of history at Carnegie Mellon University.
 baseurl: "/cjp" 
 # the subpath of your site, e.g. /blog
 url: "localhost:4000" 
