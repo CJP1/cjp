@@ -18,7 +18,7 @@ description: >
   A site featuring the work of Christopher J. Phillips, professor of history at Carnegie Mellon University.
 baseurl: "/cjp" 
 # the subpath of your site, e.g. /blog
-url: "localhost:4000" 
+url: https://christopherjphillips.com 
 # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cjphillips100
 github_username:  cjp1
