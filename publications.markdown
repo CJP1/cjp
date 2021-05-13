@@ -81,6 +81,8 @@ Go to:
 
 ### Selected Essays and Reviews
 
+2021: ["Behind the Numbers,"](https://lareviewofbooks.org/article/behind-the-numbers-aggregated-risks-in-the-age-of-covid/) *LA Review of Books* (May 12, 2021).
+
 2021: [“The Curve,”](https://doi.org/10.1525/hsns.2021.51.1.159) *Historical Studies in the Natural Sciences* 51/1 (February): 159-161. [PDF](HSNS5101_09_Phillips[2].pdf)
 
 2021:	[“A.B. Hill’s 1962 Watson lecture: The statistical consultant as consensus maker,”](https://doi.org/10.1002/sim.8827) *Statistics in Medicine* 40/1 (January 2021): 49-51. 

@@ -10,6 +10,7 @@ In 2020-2021, I will be conducting research for the project as a National Librar
 
 I have already published some preliminary pieces on the topic:
 
+* 2021: ["Behind the Numbers,"](https://lareviewofbooks.org/article/behind-the-numbers-aggregated-risks-in-the-age-of-covid/) *LA Review of Books* (May 12, 2021).
 * 2021: [“The Curve,”](https://doi.org/10.1525/hsns.2021.51.1.159) *Historical Studies in the Natural Sciences* 51/1 (February): 159-161. 
 * 2021:	[“A.B. Hill’s 1962 Watson lecture: The statistical consultant as consensus maker,”](https://doi.org/10.1002/sim.8827) *Statistics in Medicine* 40/1 (January 2021): 49-51. 
 * 2020: [“Screening for Colorectal Cancer in the Age of Simulation Models: A Historical Lens,”](https://doi.org/10.1053/j.gastro.2020.07.010) *Gastroenterology* 159/4 (October): 1201-1204.  [with Robert E. Schoen]
